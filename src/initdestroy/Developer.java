@@ -7,11 +7,11 @@ public class Developer {
 		System.out.println("Programming is really fun !!!");
 	}
 	
-	public void software() {
+	public void init() {
 		System.out.println("Initializing the software technology initially");
 	}
 	
-	public void hardware() {
+	public void destroy() {
 		System.out.println("This is the last method before destroying the bean");
 	}
 }
